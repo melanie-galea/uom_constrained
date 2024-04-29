@@ -1,11 +1,7 @@
-pip install https://github.com/kpu/kenlm/archive/master.zip
-
 import kenlm
 model = kenlm.Model('drive/MyDrive/iwslt/models/mt/kenlm_mt3.arpa')
 
 import abc
-
-
 import numpy as np
 from transformers import AutoTokenizer
 
