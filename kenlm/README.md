@@ -31,5 +31,5 @@ A binary format makes the file run faster.
 </pre>
 
 ## Scorer Scripts
-Follow instructions [here] (https://deepspeech.readthedocs.io/en/v0.8.2/Scorer.html).
+Follow instructions [here](https://deepspeech.readthedocs.io/en/v0.8.2/Scorer.html).
 
